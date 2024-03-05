@@ -1,0 +1,1 @@
+alter table consultas add cancelada tinyint not null default 0;
